@@ -73,7 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 FOR TEST PURPOSES.
 ***********************************************************************************************************************************************************
 
-For testing purposes, you can use the following sample data to simulate different cross-chain transfer scenarios:
+You can use the following sample data to simulate different cross-chain transfer scenarios:
 
 From Chain:
 You can use names of popular blockchain networks, such as:
