@@ -73,6 +73,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 FOR TEST PURPOSES.
 ***********************************************************************************************************************************************************
 
+Run the application:
+In your terminal, run:
+`npm start`
+
 You can use the following sample data to simulate different cross-chain transfer scenarios:
 
 From Chain:
