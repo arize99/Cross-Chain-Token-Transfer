@@ -68,3 +68,52 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+***********************************************************************************************************************************************************
+FOR TEST PURPOSES.
+***********************************************************************************************************************************************************
+
+For testing purposes, you can use the following sample data to simulate different cross-chain transfer scenarios:
+
+From Chain:
+You can use names of popular blockchain networks, such as:
+
+Ethereum
+Binance Smart Chain
+Polygon
+Avalanche
+Solana
+
+
+To Chain:
+Use a different chain name from the "From Chain" field. For example:
+
+If "From Chain" is Ethereum, you could use "Polygon" here
+If "From Chain" is Binance Smart Chain, you could use "Avalanche" here
+
+
+Recipient Address:
+For testing, you can use example Ethereum addresses. These should be 42 characters long, starting with "0x". Here are a few sample addresses you can use:
+
+0x742d35Cc6634C0532925a3b844Bc454e4438f44e
+0x8Ba1f109551bD432803012645Ac136ddd64DBA72
+0xdAC17F958D2ee523a2206206994597C13D831ec7
+
+
+Amount:
+You can enter any numerical value here. For example:
+
+10
+0.5
+100.25
+
+
+
+Here's a complete example you could use:
+
+Amount: 50.5
+From Chain: Ethereum
+To Chain: Polygon
+Recipient Address: 0x742d35Cc6634C0532925a3b844Bc454e4438f44e
+
+This is a simulation; the app will accept any input as long as all fields are filled and the amount is valid. In a real application, there would be more stringent validation for chain names, address formats, and available balances.
